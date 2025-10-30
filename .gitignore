@@ -216,3 +216,14 @@ checkpoints/
 *.pkl
 *.gz
 
+
+# Ignore big files
+data/
+outputs/
+checkpoints/
+*.zip
+*.parquet
+*.pt
+*.pkl
+*.gz
+
