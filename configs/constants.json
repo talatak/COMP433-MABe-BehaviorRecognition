@@ -1,0 +1,16 @@
+{
+  "WINDOW": 64,
+  "HOP": 32,
+  "THRESHOLD": 0.5,
+  "DATA_DIR": "/content/COMP433-MABe-BehaviorRecognition/data",
+  "ACTIONS_FILE": "/content/COMP433-MABe-BehaviorRecognition/configs/actions_discovered.txt",
+  "REQUIRED_COLUMNS": [
+    "row_id",
+    "video_id",
+    "agent_id",
+    "target_id",
+    "action",
+    "start_frame",
+    "stop_frame"
+  ]
+}
